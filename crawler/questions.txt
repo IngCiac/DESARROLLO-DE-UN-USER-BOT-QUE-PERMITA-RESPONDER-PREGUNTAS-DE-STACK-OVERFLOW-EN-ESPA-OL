@@ -1,0 +1,964 @@
+Problema con mysqli_multi_query, no se ejecuta al hacer multiconsultas
+DrpZone.js me sale server responded with 0 code y ya modifique apache
+Notice: Undefined index: PHP
+¿Existe alguna forma de obtener una contraseña encriptada?
+Error conexion mysqli [cerrada]
+¿Por qué recibo el error “Couldn't fetch mysqli”?
+Error mysqli_query() expects at least 2 parameters, 1 given in al Insertar datos
+No muestra todos los datos de la BD mysql en mi tabla
+filtrar con if php y mostrar solo si es mayor a 0
+Consulta MYSQL máximo valor
+¿Cómo soluciono este error PHP: Object of class mysqli_result could not be converted to string?
+Insertar NULL por defecto si el campo esta vació
+¿Cómo evitar el error de foreign key constraint en phpmyadmin y en php?
+Como recorrer consulta PDO en PHP
+PHP Mostrar datos aleatorios de una tabla sin que se repitan PHP
+¿Por que se suma dos veces el resultado al usar SUM () con JOIN?
+¿Como lograr que un botón elimine exactamente al usuario que esta en su fila?
+mysqli orientado a objetos
+Problema en count php mysql, funciona en phpmyadmin y no en php
+Funcionamiento de ->real_escape_string
+Warning: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in: [duplicada]
+Problema al crear tablas Mysql con PhpMyadmin
+Mensaje de mysql_fetch_array() expects parameter 1
+¿Cómo asignar a una variable concatenada noticias según su categoría?
+Insert dinámico de archivo con php mysqli y bind_param
+Error Trying to get property of non-object
+¿Por qué no me inserta datos en MySQL desde PHP?
+Por qué me sale este error? Fatal error: Uncaught Error: Call to undefined function mysql_
+Digitar hora y guardar
+Contar registros de 4 tablas
+¿Porqué la función affected_rows de PHP no me devuelve la cantidad de registros en mi consulta SELECT realizada en MySQL?
+¿Cómo ocultar formulario y luego de un cierto tiempo redireccionar a otra página?
+¿Error al agregar dos condiciones WHERE en una consula MySQLi?
+¿Como puedo reemplazar $_SESSION por una consulta preparada?
+¿Cómo imprimir resultados desde varias consultas unidas no relacionadas? [cerrada]
+¿Cómo mostrar el detalle de una noticia de diferentes tablas?
+Salto de línea en textarea
+No MysqlInd no funciona fetch_assoc ni get_result()
+Como solucionar Uncaught Error: Call to undefined function mysql_fetch_array() [cerrada]
+Se puede verificar en DB si es igual a un string?
+Misma consulta con diferente respuesta
+Error en PHP al iniciar sesion
+Como hacer un select con mysql y php desde una modal?
+Como mostrar todo datos consultados?
+Actualización de la Base de datos en mysql con php
+Obtener valor de un td por ajax
+Mysql - error al realizar copia en remoto con mysqldump
+Campo enum en PHP
+Error en PHP: mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given
+Buscar valores duplicados similares (LIKE) en una tabla de una base de datos MySQLi
+¿Como reemplazar mysqli_result() en PHP7?
+Recoverable fatal error: Object of class mysqli could not be converted to string
+tengo un identificador de una base mysql alfanumérico y necesito identificar el mayor
+Combinar 2 querys MYSQL PHP
+Error de INSERT INTO codigo php
+Insertar Datos en dos Tablas al mismo tiempo
+Obtener el ID de un INSERT para un UPDATE en Mysql y PHP
+¿Cómo podría hacer para no mostrar filas a los usuarios que están en una tabla específica?
+Error al consultar texto con emojis en mysql
+Actualización de código en php
+UPDATE no ejecuta nada en PHP
+Dato Incorrecto al Obtener valor COUNT de una consulta con rowCount PDO - PHP
+Restricción para registros repetidos
+Error fetch_assoc() on boolean
+Error #1241 subconsulta MySQL
+Cómo soluciono mysqli_fetch_array() expects parameter 1 to be mysqli_result PHP y MySQL
+¿Cómo muestro una columna cuyo nombre es una variable de php?
+mysqli_fetch_assoc en estilo orientado a objetos
+¿Error al ingresar al sistema de acceso se pierde la session y registra datos fallido al ingresar correctamente?
+Ayuda con PHPMailerAutoload.php
+¿Cómo ocultar contenidos de un producto ya adquirido?
+Tabla temporal en MYSQL y el su uso en PHP
+Como ejecutar un PHP con Ionic 2
+¿Cómo imprimir esta consulta?
+Error Undefined variable: mysqli_query
+Contar apariciones seguidas de un valor en una tabla
+Colocar en php que usuario esta conectado
+Problema al evitar el registro de usuarios duplicados PHP - MYSQL
+Como mostrar los datos de un usuario logueado
+agregar filas dinamicas a una tabla con datos de otra tabla
+Enlazar varias tablas a otra para obtener grupos de registros
+¿Cómo insertar datos en una tabla de MySQLi mediante un <Option value> en PHP? [cerrada]
+SET sentencia preparada mysqli
+Call to a member function bindParam() on a non-object
+¿Dejar solo los últimos 40 mensajes y borrar el resto PHP MYSQLI?
+Descontar unidades de inputs autocomplete
+¿Alguien me puede explicar que hace este bucle?
+No se insertan los datos mediante mysqli
+Parse error: syntax error, unexpected ',' in
+se salta la linea en el base de datos con el uso tres checkbox con el bucle foreach
+Operación de resta
+Se puede condicionar un evento sql
+Problema con login
+¿Como mostrar todo el contenido de una tabla de Mysql en PHP?
+Consulta myslqi de dos tablas con suma de registros
+¿Como hago para que en un procedimiento almacenado pueda guardar en dos variables con INTO frente a una consulta que regresa una o varas columnas?
+Error al insertar registros con MySQLi con prepared statements
+#1241 - Operand should contain 1 column(s)
+Error Fatal error: Uncaught Error: Call to undefined function execute()
+Porque en mi input value se generan espacios en blanco
+Sintaxis de loop cuando no tiene resultados
+¿Cómo aplico una transaccion en PHP?
+Error en consulta MYSQL y PHP
+Conexión a mysql por php y mostrar en html responsive
+Funciones y parámetros
+Consulta mysql que muestre coincidencias y luego el resto de filas
+¿Por qué me aparece que mis variables están indefinidas?
+Array to string conversion. Modificar datos de mysql con php
+MySQL: Obtener pedidos completos con un subconjunto de productos
+Cerrar la conexión a base de datos MySQL de un formulario con PHP
+¿Como acortar una condición en php?
+Llenar datos a un ListView personalizado desde servidor (Web Service)
+Mensaje de Error, manejando funciones con POO y PHP.. Fatal error: Call to a member function fetch_all() on a non-object in
+Como seleccionar y comparar entre fechas resultados entre dos tablas?
+Como contar registro , con condiciones multiples
+Warning: mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters
+cómo se activa mysqlnd en servidor, editando php.ini
+mostrar datos de una base de datos mediante función
+por que no me sube el archivo de imagen y no se visualiza?
+Guardar diferente valor del que tiene un select en value
+no se devuelve los valores del array
+Cargar datos a partir de un select en otro con datos de MySQL PHP AJAX
+PROBLEMAS SOBRE CONEXION MYSQL
+Notice Array to string in line 72
+Consulta preparada MySQLi
+Como usar un arreglo Array y declarar variables
+¿Cómo evitar registros duplicados en mi base de datos?
+Consulta mysql multitabla y datos repetidos
+Establecer limite input numérico según $valor BD
+¿Cómo tener una imagen de avatar por defecto?
+Como instalar modulos de PHP con Dockerfile para instancias de ElasticBeanstalk AWS
+Listado tipo carrito de compras en PHP y mysqli
+Argument is not a function, got undefined
+PHP MySQL - Saber si entrada ya existe (o no)
+Error con la funcion RETURN de PHP - Post [actualizado]
+Validar sistema de usuario y contraseña que no funciona (usando sesiones)
+tomar una sola palabra de varias repetidas en un select con php
+No me puedo conectar con la base de datos
+Inserta valor en tabla y obtener automaticamente el ID de registro que tendra
+¿Cual es el problema con mi login.php?
+variables no definidas
+Como diferenciar 2 id dentro de un mismo query
+Como extraer datos mas de dos datos de una columna de base de datos para llevarlas a php?
+Script php , insertar datos en mysql
+SQL syntax error en MySql [duplicada]
+Fatal error: Uncaught Error: Call to a member function diff() on string in
+Relación uno a uno MySQL
+Error en mi documento PHP
+¿Cómo cerrar una conexión de mysql con php?
+Necesito agregar un texto php
+como soluciono este error “Notice: Trying to get property of non-object ”
+Comprobar todos los checkbox seleccionados
+¿Cómo actualizo un select box al cambiar otro?
+como consultar 2 diferentes resultados en un misma columna?
+Problema con POST y AJAX
+PHP - Desventaja al usar la extension de mysql [cerrada]
+¿Por qué no se agrega el valor con este form a PHP?
+¿Cómo saber en PHP por que mi consulta SQL falla?
+Error al Insertar Datos con MYSQL_CONNECT y PHP
+Mysqli_fetch_all no funciona
+Error en consulta a Base de datos con PHP
+¿Cómo obtener el titulo que corresponda del vídeo en el foreach?
+como sacar un promedio en una consulta sql?
+Hacer UPDATE a un dato MYSQL via PHP con valor similar desde el mismo query
+Consulta de validación e insertar datos en PHP
+Logica en Consulta MySQL solo si se cumplen 2 condiciones
+Me muestra este echo “ERROR: Consulta”.mysqli_connect_error(); de la función consultar() y no se como arreglarlo, tampoco me hace las consultas
+error consulta php sql phpmyadmin en dato tipo SET , no regresa los datos correctamente (error de escritura)
+Duda con el include php
+¿Como muestro los registros en una tabla?
+No puedo imprimir el valor una $_Session con un echo
+Problema mysqli PHP: Acces denied for user 'root'@'localhost' (using password: YES)
+Formulario de inserción de datos PHP Y MYSQL
+Como verificar campo en MYSQL antes de hacer UPDATE [cerrada]
+MySQL no recoge datos
+Manejar resultados de php desde ajax
+No funciona SELECT a una base de datos con PHP
+Insertar varias filas con un campo diferente y los demas iguales en php y mysqli
+¿Por que un ciclo while no muestra datos existentes al utilizarse en PHP 5.3.0?
+Correcto formato de array en PHP 5.3
+Sentencia de insert no inserta nada a la BD y no muestra error [cerrada]
+Como Agrego Función No conecta con MySQL en PhP
+No entra en la sentencia if, dentro del While
+Update con MYSQL PHP
+¿Cómo utilizar `count` para contabilizar la cantidad de registros para distintos valores de un campo en mysql?
+validar intentos de usuario al loguearse
+Evitar que se dupliquen datos en mysql
+Generar Un solo Voto por votante
+Clausula sql where para casos en que los valores de columna deben cumplir de forma combinada la condición
+No logro mostrar mis imágenes con PHP y MYSQL
+Fatal error: Uncaught Error: Call to a member function bind_param() on boolean
+Comando SQL duplica mis datos
+¿Permitir enviar formularios cada cierto tiempo? PHP
+Subir datos desde base de datos local a servidor
+¿Cómo ingresar datos desde PHP en dos tablas en MYSQL al mismo tiempo?
+¿Por qué mi consulta de MySQLi no muestra el primer registro?
+Calcular decimales con consultas Mysql y variables en PHP
+Graficar datos con Google Charts, PHP y MySQL
+Búsqueda de datos por fecha
+Mi primer MVC en PHP - Funcional, pero lento. ¿Es optimo?, ¿Cómo puedo mejorarlo? [cerrada]
+El último WHERE me da problemas. ¿Por qué? [duplicada]
+PHP Fatal error: Call to a member function fetch_assoc() on boolean
+Enviar JSON php
+Update no actualiza tabla
+Incorrect datetime value
+Mysqli - ayuda multiple consulta
+Problemas con fetch() fetch_array()
+¿Cómo insertar datos de un select y radio usando setencias preparadas MySQLi?
+Error en cambiar contraseña usando Ajax/MySQLi sentencias preparadas(orientado a objetos)?
+¿Cómo agregar más condiciones y parámetros a una consulta unida mediante INNER JOIN?
+¿Cómo mostrar el tiempo real de un post similar a facebook o stackoverflow?
+Comprobar si “etiqueta” se encuentra disponible y mostrarla en un SELECT
+Mi Consulta SQL da un resultado errado
+Como imprimir omitiendo las columnas vacías en PHP y MySQL
+¿Cómo puedo guardar datos con un option <select> en mi base de datos?
+Array solo imprime ultimo registro
+Menú dinámico multi nivel
+¿Cómo insertar datos y actualizar datos en sentencias preparas MySQLi orientados a objetos?
+Warning: mysqli_query(): Empty query - PHP MySQL
+Mostrar Valor de BD en SELECT en PHP
+Error conn fetch_assoc MYSQLi
+consulta sql con condiciones
+Realizar ciclo while a partir de una consulta MySQLi en PHP
+No me funciona fetch_all(MYSQLI_ASSOC)
+Id de la tabla usuarios a partir del logueo
+¿Cómo puedo setear el valor de un campo date que se envia por GET?
+Dias transcurridos entre fechas php
+Descargar archivo desde servidor mysql
+Proteger el acceso a los archivos de mi sistema (php)
+Como validar usuario con sistema de logueo usando hash de contraseña
+Error de Session_Start
+¿Cómo relacionar o unir 3 tablas para realizar una consulta en MySQL?
+¿ Es posible importar un script sql y dividir las consultas?
+Como concatenar dos campos?
+¿Cómo crear un sistema de multidivisas/divisas PHP/MYSQLI/Ajax?
+Crear un trigger para ejecutarlo antes de insert
+Salto de linea en javascript / ajax
+Fatal error: Uncaught Error: Call to a member function bindParam() on bool
+Mi consulta en php y mysqli no quiere agarrar el datos que viene por GET
+Mi formulario de login.php no inicia sesion
+Como puedo hacer para que mi insert no guarde datos duplicados php y mysqli
+PHP: clase con método estático de conexión MySQLi pero que permita variar los parámetros de conexión si es necesario
+¿Por que no hace la función PHP Formulario de registro?
+Pasar variable php a cuadro modal uso html y css
+Sistema de solicitudes
+Undefined variable: mysqli
+Agrupar campos en una tabla PHP Y MYSQL
+No consigo obtener registros de mysql con resultset
+Concatenar dos filas donde el nombre de una tabla es una palabra reservada
+¿Cómo obtener todos los datos antes o después de 10 días de intervalo?
+Eliminar datos de la base de datos tras un tiempo de espera
+Problema con una variable en php
+Condicional if php no funciona
+Creación Trigger - Problema con Update
+¿como soluciono error al mostrar datos de mysql?
+Actualizar varios registros de una tabla con Ajax y PHP
+¿Cómo insertar valor y texto de radio button en otra tabla de mysql con PHP?
+Como ir a carpeta principal dentro de una subcarpeta con boton href
+Necesito ayuda con una querie en MYSQL
+Como puedo mostrar la info de una fk con un select?
+recorrer los input check creados de una base de datos y darle valor cada uno de ellos e insertarlo en la base de dato
+Variable no definida en class PHP
+Obtener registro, por cada cada numero separado por comas de un campo
+como mostrar el contenido de una consulta mysql en php
+Como hago para separar fecha y hora que tengo guardado en mi BD en un campo timestamp? [cerrada]
+Problema al utilizar mysqli::fetch_assoc() en PHP con MySql
+Elegir algo de forma aleatoria respetando sus probabilidades
+Como meter un order by en una tabla
+Reporte FPDF con Php y MySQL
+Error de sintaxis haciendo un insert en php usando mysqli
+Error al tratar de insertar registro con una consulta preparada en PHP
+OPERADORES LOGICOS EN SENTENCIAS PREPARADAS
+Error en unir tablas con limit específico en MySQLi
+Subir solo videos al servidor con Php y Mysql
+Guardar pedidos en base de datos
+Realizar listas php en una tabla
+Ayuda separando valores y asignarlos a una variable usando MySQL y PHP
+Ventana Modal, Obtener Valor Fila,Tabla bootstrap
+Ayuda con sentencia If durante ingreso de datos en MySQL en PHP
+¿Alguna forma de que un usuario modifique el $_SESSION[]?
+Hay alguna manera de juntar esta consulta de MySqli
+WebService PHP MySQL hacer dos consultas
+Cambiar el dato que recibo por POST de un modal
+Agregar en un Mysqli un valor diferente al indicado por el select
+¿Se puede VACIAR una tabla (truncate) cada X Minutos?
+¿Error en enviar datos de restablecer contraseña PHP?
+problesmas con mysqli_num_rows y consultas preparadas mysqli
+Php - multiples consultas “select” usando sentencia preparada
+¿Como sacar el “nombre” y no la “id” en jQuery..? Desde MYSQL
+¿Cómo contar los registros de un dato especifico usando sentencias preparadas MySQLi (orientado a objetos)?
+Warning: mysqli_fetch_array() expects at most 2 parameters, 3 given
+como hacer una funcion mysqli para un buscador?
+Consulta para obtener datos de un trimestre
+¿Cómo puedo buscar la mejor coincidencia en mi tabla a partir de una frase introducida por un usuario?
+Advertencia “Undefined variable: row in …”
+Conseguir el valor de una tabla php
+Ayuda! Problemas al llenar una tabla dinamicamente con AJAX
+Por qué me sale “ Call to undefined function mysqli_quey() in C:\xampp\htdocs\Hotel\reservar.php on line 13” [cerrada]
+Problemas con AJAX y JSON Fatal error: Uncaught Error: Call to undefined function jason_encode()
+No se ejecuta consulta al llenar campo de usuario y contraseña
+Error al Actualizar base de datos
+¿Es posible hacer 'hash' a $x-variable?
+Mostrar datos de B.D. en un select de HTML
+Warning: mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given
+mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in [duplicada]
+error al realizar funcion de login con php
+Agrupar resultados mysqli
+Llenar input text con datos del usuario desde mysql
+El combobox no envia el codigo seleccionado
+Error consulta desde php, function bind_param()
+Remplazar una imagen vieja con php y MySqli
+Como agregar un insert para guardar el nombre de las imagenes en mi base de datos mysql
+No registra la contraseña para loguear pero manda a donde debiera ir si estuviera bien
+¿Cómo obtener el valor de un input creado dinámicamente para guardarlo en la Base de datos?
+¿Cómo hacer una multiconsulta MySQLi?
+No se registran los datos en formulario
+¿Cómo hacer una auditoría de varias tablas en una única tabla de auditoría?
+Usar la misma variable en dos funciones PHP
+¿Cómo obtener los datos de un select con mysqli?
+Problema al Exportar Base de Datos MySQL a Excel con PHPExcel
+¿Cómo resolver el problema de undefined index con Ajax y Php?
+Carrito de compras con PHP y MySQL que agrega productos repetidos
+Convertir PDO a Mysqli
+¿Cómo puedo solucionar un error 1054 de Mysql?
+Producto bloqueado por limete de venta
+Login en PHP MYSQL Undefined index: Clave
+Cambiar consulta de mysql con javascript
+warning mysqli_select_db() expects parameter 1 to be mysqli
+Hash de usuarios en texto plano
+Problema con mysqli y php, solo me guarda un dato
+Mostar resultados MYSQL en Horizontal
+Cuando se dejo de usar los comandos mysql_comando y en que version de php?
+Función: ->fetch_all(), no identificada en el servidor web: [duplicada]
+Problema para insertar datos en una BBDD desde PHP
+¿Cómo consultar a la base de datos en angularjs y php services?
+Warning: mysqli_query() expects at least 2 parameters, 1 given in [duplicada]
+¿Cómo enviar un email automáticamente cuando se active una consulta SQL que devuelva una fecha de vencimiento, por medio de PHP?
+Exportar Datos Mysql con php
+Restaurar respaldo de tabla en sql y php
+¿Como hacer registros en la base de datos con PHP?
+script para respaldar bases de datos mysql en php, pero requiero migrar a mysqli
+Caracteres especiales, espacios, acentos y XSS en registro PHP
+¿Cómo puedo comprimir todas las tablas de una vez?
+Hay alguna manera de llenar un array para json automaticamente
+¿Como combino 2 condiciones o más en una misma consulta en Mysql?
+Por que da codigo de error 500 este php para registrarse?
+Error en una consulta SQL que rompe la página
+Cómo insertar impresos de una tabla, e insertar el id a otra usando checkbox
+Consulta php no devuelve nada
+Obtener veces que un equipo a ganado a otro con mysql
+Como adapto el siguiente codigo PHP de MySQL a SQL Server?
+Problema al crear un archivo zip en php7 usando una consulta mysql
+¿Cómo generar PDF con variables de sesión?
+Validar registro MySQL al ingresarlo en Form PHP
+Paginacion de texto en PHP
+Clase para manejo de sesiones dejó de funcionar en php 7
+En un mismo formulario ¿Se podría cambiar el valor de una casilla dependiendo de otra?
+Query de inserción de datos a través de una subconsulta. MySQL
+Warning: mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\base\LoginUsuario.php on line 13
+forma para seleccionar los proximos 2 dias desde la db con mysql
+Mysqli recibe un valor diferente al enviado
+Porqué no me inserta la imagen en mi base de datos
+Guardar TEXTO de un SELECT en MySQL
+¿Se puede hacer conexión a MySQL desde C# con variables contenidas en un archivo?
+Suma de datos para mostrar
+Contar veces en que aparece un registro en Mysql [cerrada]
+¿Porque recibo distintos valores en una misma consulta mysqli php?
+( ! ) Warning: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in C:\wamp\www\final p4\tabla_borrar.php on line 20
+Sumar todos los campos de varios registros correspondientes a una columna MySQL
+Fatal error: Call to a member function query() on null al hacer una consulta
+Usar conexión PDO para hacer Sentencias Preparadas [PHP y MySQL]
+Detectar que un registro a borrar no existe en la tabla SQL (MySQL)
+Actualizar un registro en una tabla Mysql a partir de una variable POST?
+Guardar array en diferentes campos mysql con PHP
+Validar un DNI - NIF en PHP
+Imprimir filas consecutivas de una misma columna mysqli
+¿Cómo muestro una imagen desde MySQL en PHP?
+¿Por qué esta fallando al llamar el conjunto Array pero de manera individual no en PHP?
+Problemas al mostrar dato relacionado en Codeigniter
+Como hacer un INSERT de un Array
+Error al agregar `NOT IN` en una consulta de sentencias preparadas
+problema al enviar datos con ajax a mysql
+Tengo un problema con mi boton de editar
+Ingresar datos usando Php a MySql en multiusuario
+Como lograr que se haga un autocompletado en campos dinamicos
+Comprobar si campo “serial” está duplicado con un “if” en PHP
+Notice: Undefined index en un login con PHP y MySQL
+Error con una consulta PHP y MySqli
+¿Cómo mostrar resultados con un condicional?
+Error al contar lista con count PHP
+Obtener variables de una fila y ponerlos en variables php
+No inserta todos los valores seleccionado por checkbox
+error de sintaxis [cerrada]
+Ubuntu server error al insertar cadena larga en mysql
+¿Cómo obtener un arreglo de una consulta preparada con mysqli?
+Pasar 2 o mas variables en php
+Update que no modifica la tabla
+Crear formulario html dependiendo el número de columnas de una tabla mysql
+Insertar un registro sino EXISTE de lo contrario ACTUALIZARLO MYSQL
+Variable indefinida PHP y Mysqli
+Problema con While en Consulta de Mysql
+Date no puede ingresar a la bbdd
+Consulta MySQL complicada entre varias tablas
+Galeria PHP no carga imagenes grandes. Problema con while
+Como puedo pasar este codigo a Mysqli [cerrada]
+Cargar datos en un Input al seleccionar el dato de otro input
+Como comparar dos filas de diferentes tablas y obtener registros que cumplan condición, si no, mostrar null MySQL?
+Cómo puedo convertir este código PDO en Mysqli?
+ayuda login android studio, no me muestra valores de $user por que no es un JSONobject
+Tipo columna blob no registra con tipo “b”
+Fecha 12/22/2017 12:00 AM a 2017-12-22 12:00:00
+¿Como mandar un formulario por partes? [cerrada]
+Crear niveles de usuario en sistema de login usando sesiones
+problema con header location en dos url diferentes
+php hacer una web con login y navegar dentro sin perder el logeo de la web
+¿Cómo deben ir definidas las rutas absolutas en AJAX y otras direcciones, al subir sitio dinámico a un hosting? [cerrada]
+Validar usuario existente
+Calcular e imprimir promedio de calificaciones en materias asociadas a alumnos. (Impresión de boletas por alumno en lote)
+Error [false] al hacer una consulta (MySQL - PHP - PHPMyAdmin)
+¿Que le falta al bucle para hacer update en todos los registros recorridos.?
+¿Por qué FPDF, no imprime el primer registro obtenido de una consulta multitabla, y lo acentos no los imprime?
+Query de filtro de fechas no da resultado esperado [cerrada]
+Recuperar valores de Mysql con PHP y JS en Ventana Modal Bootstrap
+Problema con select sin where a una base de datos desde php
+ingresar datos a mysql con formulario
+Problemas de conexión MySQL
+Problema al convertir Ñ a ñ con php
+Problemas al guardar fecha PHP
+Cambiar un valor tipo int a uno tipo string PHP
+¿Porque no me trae los datos de la consulta sql?
+como buscar en tabla php con jquery
+Problema con tipos de datos en una consulta MySQL dentro de php
+Comprobar si un INSERT de Sentencias Preparadas se ha realizado con éxito en PHP
+Imprimir datos de Joins
+¿Es correcto crear una clase con metodos estaticos para conectarse a una base de datos MySQL?
+Error al insertar datos MySQL con PHP
+Como puedo mostrar a cada cliente sus pedidos desde mysql?
+Cómo filtrar datos por rango de fechas
+Problema al añadir registro a una base de datos en php
+MySQLi no inserta en la base de datos y la página queda blanca
+Seleccionar un input type select y habilitar otro input con información en php, javascript mysqli
+Imprimir todas las permutas posibles PHP
+Seleccionar un registro aleatorio de una base de datos MySQL y pasarlo a PHP [cerrada]
+Por que no verifica en mysqli conexion php
+Sumar 1 a una cantidad de una base de datos sin un SELECT previo
+¿Cómo obtener un listado de registro con especificaciones individuales de limit MySQLi?
+Almacenar varias variables (o un array) en un mismo campo (MySQL) [cerrada]
+Como crear varios botones en un mismo formulario HTML / PHP?
+¿Por qué no me imprime toda la tabla en PHP pero si en MySQL?
+Hacer Login con usuario o con Email con PHP
+¿Cómo crear un buscador en php? [duplicada]
+El sistema usado en la página es lento, ¿alguna forma de optimizarlo?
+¿Cómo puedo contar el total de una columna por mes?
+¿Como Llamar un procedimiento almacenado MYSQL desde PHP?
+Bucle infinito en PHP
+Por qué no loguea, el hash pass si es igual en bbdd que el ingresado [cerrada]
+subir una imagen en PHP y guardar el resultado en base de datos
+¿Cómo guardo un array de inputs de un form en una tabla de MySQL?
+¿Como establecer una sentencia para que no devuelve valores NULL teniendo dos condiciones en PHP?
+¿Problema con eliminación de datos de base de datos?
+Array foreach y consulta MYSQL con php
+¿Como recortar el número de decimales impresos después de un cálculo de promedio?
+Que nombre lleva esto? y se puede agragar el contenido a una Basedatos? [cerrada]
+Obtener valores seleccionados de arreglo de checkbox, y de arreglo de inputs a través de bucles. Para ejecutar una consulta con los valores obtenidos
+¿Cómo validan una inserción o una selección de datos en PHP?
+se insertan datos en diferentes columnas
+Where mysql puede ser null
+Actualizar con PHP 'valores' en una tabla de UNA base de datos en MySQL con 'valores' de OTRA tabla en otra base de datos Mysql
+¿Que está fallando en mi codigo?
+ERROR al conectar base de datos mysql a un documento php
+¿Por qué no funciona este código php?
+¿Por qué no funciona mi ajax de load()?
+¿Cómo mostrar los resultados de una subconsulta sql?
+hacer una consulta mysqli por cada iteracion de un ciclo foreach?
+Problema al conectar una clase php con una base de datos MySQL
+¿Cómo insertar datos al segundo intento?
+Duda sobre password_verify
+Dudas con clave candidata ,clave primaria, clave alternativa
+No se ejecuta correctamente la sentencia de MySQL
+Almacenar array en base de datos MySQL y PHP
+Como guardo un valor Hexadecimal en BBDD?
+Error de Sintaxis PHP/MySQLI
+como obtener el valor desde ajax a php?
+Crear base de datos mysqli desde php
+Dudas en Consultas Preparadas PHP Y SQL, Sentencia SELECT y Mostrar Datos
+necesito saber como comparar dos registros en php con mysqli
+¿Evitar enviar correo de restauración de contraseña a un usuario no activo?
+¿Como filtrar imagenes explicitas cuando el usuario sube su foto de perfil en php?
+¿Error en mostrar datos al agregar un where en una consulta MySQLi?
+Dar formato a JSON
+Imprimir boton si un valor esta vacio
+Ejecutar consultas MySQL a dos tablas al mismo tiempo y mostrar resultados
+Problemas al mostrar imágenes desde el servidor
+Enviar registros a varias tabalas- mysqli
+¿Que es fetch() en consulta preparada MySQLi?
+Error al cargar un archivo de texto a mysql, usando array con php.
+Como puedo saber si la tabla existe
+Redirección cuando GET id no existe
+Error Only variables should be passed by reference al Insertar datos mediante consulta parametrizada con PHP y MySQL
+Mostrar campo y su contenido de base de datos mysql
+¿Tengo que usar un foreach aquí?
+Error de conexión Mysqli en 000Webhost
+No se pudo obtener mysqli Error PHP
+Al insertar los datos la tabla queda con datos vacíos, en un formulario básico, hecho con html5
+Existen algún problema entre PHP y Mysql con procedimientos almacenados?
+Error al seleccionar datos de la base de datos con ajax [cerrada]
+Problemas con la codificacion UTF-8 en mysql
+¿Cómo puedo pasar el contenido de una variable obtenida de un SELECT a un TAG <a href = $_POST['var']?
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate
+Sentencias preparadas: consecuencias de la ausencia de free_result() o close()
+Filtrado incorrecto en una Conlsulta MYSQL
+Problema al insertar datos en MYSQL con Codeigniter y Ajax
+Problema con consultas en bases de datos relacionadas
+Login con encriptacion de contraseña no encuentra los valores
+Error de sintaxis al poner un numero como nombre de tabla mysql
+¿Es posible hacer una conexión a una base de datos MYSQL con javascript? [cerrada]
+Como mostrar información de una tabla MySql con PHP en otra pagina?
+Problema ejecución SQL
+Como cargar diferentes perfiles en una misma pagina?
+Como ver perfil de usuarios?
+No funciona la query de mysql
+Para crear una mini red social, es necesario saber POO? [cerrada]
+¿Cómo cambiar el valor de una variable php desde la base de datos mysqli?
+Como insertar valores de una tabla dinamica a base de datos mysql
+¿Como validar que el textarea no este vacío en php y no inserte datos?
+por que me tira este error Expected type 'object'. Found 'string PHP?
+Editar registro con php y mysqli no funciona
+Cómo puedo hacer para que al registrarme en un formulario no pase a la página php siguiente
+Undefined Variable $query PHP
+error class conexion con base de datos MYSQL y PHP
+No me lee correctamente una variable de MySQL en PHP
+Como traer datos con php y mysqli pero que sean de los últimos 7 días
+num_rows no me detecta las filas en una consulta valida [duplicada]
+error insertar fecha compra carrito en la DB
+Como contar varios registros separados por comas dentro de una misma variable con php y mysql
+Vincular campo select con datos en MySQL
+Problema de validación login
+¿Cómo puedo asignar espacios en una consulta de MySQL?
+Como obtener con php y msqli el valor mas alto con max()
+Problemas con un UPDATE de php
+¿Como usar variables PHP con MYSQL query WHEN?
+Fatal error: Uncaught Error: Call to undefined function mysql_query() in C:\xampp\htdocs\deportes\LoginPHP\conexion.php:14
+mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in C:\xampp\htdocs\musicalia\login.php on line 19
+Error al actualizar campo en tabla con condicional en php
+Puedo ejecutar consulta de acorde a valor recibido por GET?
+Bajar todos los archivos en PHP desde una query de MySqli
+Query para quitarle todas las letras para que solo quede con los números de un campo alfanumérico
+Como obtengo un array de una consulta de una sola columna? PHP
+Login con dos tablas
+¿Cómo imprimir en la web el número de filas que tiene una columna de una DATABASE?
+error al verificar si hay un usuario repetido
+Como sumar resultados de un GROUP BY MySQL
+Undefined Variable $db en php
+Ayuda con un error
+¿Cómo enviar Email de Bienvenida al Registrar Usuario en PHP?
+Generar e Insertar en MySQL con PHP
+Almacenamiento de nombres, áreas y teléfonos en MySQL
+mysqli_query() expects parameter 1 to be mysqli, string given [duplicada]
+Obtener mensajes de stored procedure en php
+No funciona la insertacion de datos desde my php a mysql
+lista desplegable no muestra todos los datos de una bd
+Sentencia SQL no me toma la id en PHP
+Al pinchar en el boton login no inicia sesión
+Warning: mysqli_query() error
+Necesito ayuda con la eliminación de datos junto a sus registros relacionados en mysql
+Cambiar mysqli a PDO al insertar datos en DB
+Me genera error al intentar insertar datos en la bd
+Fatal error: Call to a member function fetch_all() on boolean in
+¿Cómo implementar HTML dinamica con base de datos usando mysqli, php y css?
+Mostrar resultados de consulta sql en html por php y enviar id por javascript
+Mi servicio de registro en BD no funciona al subirlo a un servidor
+Orden de datos tabla mysql
+Consulta MYsql Con InnerJoin
+num_rows me devuelve 0 en MySQLi / PHP
+PHP PDO Update no funciona
+Problemas con una variable en PHP - MYSQL
+PHP uniqid duplicado
+Error con PHP “Notice: Undefined index:” y no conecta con DB
+¿Cambio de foto de perfil de un usuario con php mysqli?
+Error de sintaxis al actualizar datos en MySQL
+Ayuda con consulta SQL (varios registros del mismo campo)
+MySQL desplegar resultados de id_cate ordenados por id_subcate
+En mi código no siempre guarda los datos en la BD pero si envia el correo
+Call to undefined function mysqli_init()
+Problema con CMS
+Al subir al servidor hay un query que no funciona
+Guardar resultado de Array en Mysql
+Error en formulario de CRUD: Warning: mysqli_error() expects exactly 1 parameter, 0 given in
+¿Cómo mostrar diferentes mensajes para cada caso desde una sola consulta de la misma tabla de registros?
+¿Cómo hago varias consultas a MySQL con PHP? (MySQLi)
+Como insertar la suma de variables PHP MYSQL
+¿Cómo crear un editor con paginación y buscador?
+porque al cambiar un valor de entero a con decimal me sale error?
+Cómo acomodar las imágenes que muestro de la base de datos?
+¿Cómo leer celdas de excel, como números y no caracteres con php?
+Consulta anidada en MySQL y paginación
+Conexión de formulario de registro con base de datos php
+Cómo obtener registros aleatorios, junto con su id MySQL y PHP
+serie para drilldown usando array y json_encode
+¿Cual es el mejor método de obtención de datos de un formulario?
+Porque no me guarda los datos mysql mediante php?
+Menú dinámico: ¿Cómo acceder a enlaces en subcategorías?
+Mysqli_error() expects parameter 1 to be mysqli, null given
+Error bindParam(); PHP
+como insertar el value de un select en multiples columnas de una tabla en MYSQL PHP
+¿Que me recomiendan para hacer este tipo de selects anidados? [cerrada]
+PHP Catchable fatal error: Object of class mysqli could not be converted to string
+No funciona la condición al ejecutar una consulta SQL en PHP
+¿Cómo actulizar registros en la base de datos?
+Saber diferencia de tiempo en consulta mysql
+Error en envio de datos con prepare y mysqli
+error al consultar en mysql desde php Warning: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in
+listar registros agrupados por mes y ordenarlos en forma cronológica en mysqli
+No entiendo el funcionamiento $sql->bind_param
+¿Por que este trigger no inserta nada en ninguna de las dos tablas?
+¿Alguien puede decirme el fallo de mi consulta mysqli?
+Cómo obtener nombre del usuario logueado
+¿como se puede obtener la cantidad de coincidencias en una consulta mysql con left join?
+Problema con LAST_INSERT_ID
+No inserta todos mis registros (tipo Time) en PHP Y MYSQL
+Duda sobre múltiples selects y updates ejecutados al mismo tiempo [cerrada]
+Seleccionar determinadas filas de tabla MySQL
+Como comparar diferentes arrays de las $_session
+Permisos de visitante/usuario
+¿Cómo llenar un DataTable con una consulta personalizada?
+Ingresar $valor a un campo y dependiendo el valor, modificar otro campo
+Paginar una tabla mysql con DataTable
+Problema consulta MySQL con PHP
+Problemas con Login en php
+Como validar la cantidad de columnas a importar PhpExcel?
+Problema al llamar una función de una clase, desde un archivo PHP independiente
+Problema con jquery Notice: Undefined index
+Error mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host desconocido
+inputs y checkbox selecion insercion
+Select max ID en PHP
+Busqueda automática Ajax y php
+Error en php Commands out of sync; you can't run this command now
+Metodo para Guardar multiples checkbox e input con json y luego mostrar
+PHP mysqli_query() No funciona
+Perfil de empleado con foto php
+Buscar en mysqli con un campo separado por coma
+Colocar campo que se pueda dejar en blanco o no
+Insertar en Mysql no ejecuta
+Insertar datos en MySQL mediente formulario y PHP
+Error con group by en mysql 5.7
+Obtener una consulta de una tabla [cerrada]
+Sesiones en php para determinado usuario
+Reemplazar una imagen por otra PHP y MYSQLI
+Excepcion PHP-SQL preparándola
+Error al expandir los detalles PHP/MySQL
+Comprobar si existen usuarios en la BD
+Búsqueda en Php y MySQLi imprimir detalles
+Buscar responde con un renglon menos
+descarga de imagenen que esta en la DB
+Inserción de datos mysqli php. ¿qué estoy haciendo mal?
+Error al conetar base de datos php
+PHP duda como generar un contador en el name de un radio button
+Problema para obtener datos de una tabla y almacenarlos en una segunda tabla diferente
+Como tendría que ser esta query?
+¿Cómo obtener los registros de una tabla y mostrarlos en una <div> por separado?
+¿Cómo enumerar los registros de una tabla de acuerdo a la fecha?
+capturar variable en um trigger mysql
+Problema en un registro de usuario
+Duda con cotejamiento de mysql
+reducir tamaño de archivo (pdf, docx, xlsx, etc) con php antes de subirlo al servidor
+Acceso denegado mysql
+problema de array PHP, el echo me muestra array
+Buscar registros de una base de datos mediante PHP y MySql
+Warning: mysqli_query() expects parameter 1 to be mysqli, null given in /home1/j8f5w8o7/nepe.smeext-carding.com/pieces/inc.php on line 26
+como construir dos consultas a la misma tabla en una sola
+Por que esta sentencia SQL da error de NON-Object en PHP?
+Extraño resultado en la consulta del número de filas de una tabla
+¿Cómo podría mostrar los valores de una tabla partiendo de una id primaria?
+Me faltan 2 parámetros en mi Php [cerrada]
+Conexion a base de datos funciona, pero no logro ingresar [cerrada]
+error con msqli_num_rows
+Error en Ajax con consulta Mysqli
+Filtro de Búsqueda con varios campos, con opción a estar vacíos, MySQli
+Sentencia de INSERT Mysqli Prepared, que tiene de malo?
+Mysqli guarda los registros vacios desde Php
+Mysqli con php guarda todos los datos vacios
+Sentencias preparadas en MSQLI
+Cargar datos de un base de datos al pulsar botones (siguiente y anterior) No retrocede
+¿Cómo crear un variable PHP que muestre su resultado en varias páginas?
+¿Cómo poder integrar todos los registros varias tablas en una?
+Enviar datos de una tabla en un modal a una tabla php usando php y jquery
+Error en php con consulta MySQL [cerrada]
+Como podria mostrar el historial de un ID en PHP mysql
+¿Como saltar de registros mysql usando bucle en php, y de cada registro iterado hacer un calculo entre valores de campos?
+¿Como hacer AUTO_INCREMENT sobre una llave compuesta que solo afecte a una llave?
+como evitar que se muestre dos veces?
+¿A que se debe este error? Warning: mysqli_query(), (fetch_array, num_rows):: expects parameter 1 to be mysqli, null given in,
+Obtener filas sin tener que hacer múltiples consultas PHP
+¿A que se debe este error?, Warning: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in…linea de error [duplicada]
+¿Cómo hacer login de usuarios, con la contraseña encriptada md5? [duplicada]
+mysqli_query SELECT no encuentra items
+Comprobar si existe correo en BD [cerrada]
+No muestra resultado mysqli
+¿Porque me repite los datos?
+Como hacer consulta entre meses o fechas
+calcular valores de una tabla dinamica
+Como obtener el valor de la tabla llamando desde php?
+llenar input text dependiendo de la selección de una tabla PHP MYSQL
+Problema al enviar valor de un combobox y mysql a otra página
+Como subir foto tomada desde el teléfono a mi web mediante php
+Insertar datos de un txt a Mysql mediante un php
+ENVIO DE FORMULARIO EN LA MISMA PAGINA
+ERROR URI must be a String or URInterface
+Consulta a la BD me devuelve NULL PHP
+COMBOBOX SELECT ANIDADO GUARDAR VALOR Y NO ID
+Error paginacion con PHP
+¿Por que me salen estos errores al realizar mi conexión a la base de datos con PHP?
+¿Repetir una sentencia sql con un while en php?
+¿Como regresar valores en radio button en PHP?
+Estoy intentando validar un password y me aparece un:“Warning: mysqli_num_rows() expects parameter 1 ”
+¿Cómo obtener último id insertado si la consulta está en otro archivo?
+no puedo guardar datos en mi base de datos mysql
+Update en PHP no actualiza tabla
+Mi consulta solo toma mi where de busqueda mysqli y php
+¿De que manera se puede encriptar una contraseña para una base de datos?
+¿Cómo mostrar datos y filtros de paginación avanzada con ajax?
+¿Cómo crear un sistema seguro de acceso con php & mysqli?
+¿Grave agujero de seguridad al permitir restablecer la contraseña PHP?
+¿Cómo mostrar productos relacionados en el carrito de la compra?
+¿Cómo obtener un arreglo asociativo usando consultas preparadas con mysqli?
+¿Cómo puedo evitar mostrar el titulo de una categoría cuando no exista contenido en la misma?
+¿Cómo habilitar página después de una fecha estimada?
+¿Cómo crear un listado de noticias con bootgrid usando sentencias preparadas MySQLi?
+¿Cómo generar y proteger url del archivo?
+¿Cómo crear un ID único de un post similar a StackOverflow?
+Seleccionar múltiples filas y Actualizar sus valores SQL
+Warning: mysqli_query() expects parameter 1 to be mysqli
+¿Porque se acumulan sumatorias en un ciclo for que deben presentarse por separado en PHP?
+Como hacer SELECT Top 1 en MySQL para ultimo registro
+¿Cómo insertar datos después de 48 horas?
+Ayuda con .htaccess - Url Amigables
+¿Cómo generar un listado de botones de las preguntas existentes de manera dinámica sin recargar la página?
+¿Cómo hacer varias inserciones seguidas usando sentencias preparadas MySQLi?
+Subida de imágenes por ajax mediante php+mysql
+¿Cómo inhabilitar contenido según la fecha y tipo de usuario?
+¿Cuál es el error en estos códigos de PHP? (Warning: mysqli_num_rows() exp..)(Warning: mysqli_fetch_array() exp…)
+¿Cómo enviar los datos que alamacena una variable en jQuery mediante AJAX a un PHP y guardar en la base de datos con MySQLi?
+php - Problemas al insertar datos MYSQL
+Problema en count php
+¿Cómo mostrar los productos del segundo id en adelante?
+Ayuda con la logica de un query para MySQLi
+¿Cómo evitar una repercusión en el rendimiento de la aplicación al realizar consulta dentro del bucle while?
+¿Cómo aseguro mi conexión de PHP a MySQL?
+Problema insertando datos con MySQLi
+¿Es obsoleta la extensión PDO MySQL para Php?
+¿Qué es mejor usar, fetch_array(MYSQLI_ASSOC) or fetch_all(MYSQLI_ASSOC)?
+¿Cómo unir múltiples tablas en MySQL?
+¿Cómo hacer un Join en MySQL con un where para obtener todos los registros que coinciden con un ID?
+¿Error en mostrar mensaje de error cuando todo devuelve cero?
+¿Comó hacer login en PHP y Mysql con passwords encriptadas en (md5) usando AJAX? intentaba loguear con una passwd ya encriptada
+Error al añadir producto en el carrito de compra PHP/MYSQLI
+¿Cómo recuperar registros de varias tablas sin UNION?
+No se por que falla con if
+Warning: mysqli::query(): Couldn't fetch mysqli
+¿Cómo comprobar varios valores por un valor para identificar el producto adquirido?
+¿Cómo crear parámetro php myqli y mezclar programación con jQuery?
+¿Cómo mostrar filas de resultados de forma segura utilizando mysqli orientado a objetos?
+Como obtener los datos de un SELECT con Sentencias Preparadas PHP
+php poo establecer conexion a la base de datos
+mostrar tablas dinamicamente
+duda consultas mysqli vs poo consultas preparadas
+Resultado de una consulta NULL
+Mostrar registros en un select basandose en id de otro select
+¿Como obtener la cantidad de espacio que ocupa un registro en MySQL?
+Duda sobre un update usando sentencias preparadas
+como cambiar de mysql_query a mysqli_query?
+Mi login en MYSQLI ingresa con cualquier contraseña
+¿Por que marca este error en el uso de la función ->fetch_all()? Al estar el sitio en un hosting, localmente funciona
+Problema al borrar con php en una base de datos mysqli
+¿Cómo enviar el resultado a una varible con mysqli_result?
+Comparar un rango de fechas con BETWEEN en mysql
+mysqli->affected_rows no funciona con procedimiento almacenado
+¿Cómo unir cuatro tablas no relacionadas mysqli?
+¿Cómo actualizar registro seleccionado mediante ventana Modal?
+¿Error en mostrar indice de series de videos desde la base de datos?
+Notice: Undefined index: Enviando variable por post
+¿Donde utilizar $stmt->close() & $stmt->free_result() - MySQLi PHP?
+DATETIME en MySQL no registra correctamente la fecha
+¿Como utilizar función: mysqli_real_escape_string() con arreglo de inputs recibido del formulario?
+Como hacerlo en MySql?
+Buscar y Eliminar registros duplicados MYSQL
+¿Por qué solo me muestra el valor mas reciente? PHP
+Problema al almacenar datos con php y mysqli
+Problemas con la base de datos
+¿Cómo imprimir cada comentario con su post?
+Como puedo saber cuantas veces se repite un dato en una consulta sql?
+¿Cómo puedo implementar una consulta donde se muestre las publicaciones más populares MySQLi/PHP?
+INNER JOIN 1 campo primario a varios campos foraneos en una misma tabla
+Evitar login nuevamente, tras presionar botón de atrás del navegador
+Usar una variable para el LIMIT en un SELECT de MYSQL con PHP
+Aplicar un WHERE a mi sentencia SQL en un SUM selectivo y total
+Problema al actualizar registros en la base de datos
+Error Mysqli mysqli_query() expects parameter 1 to be mysqli, incluso si ya le estoy dando los dos parametros que pide [duplicada]
+Problema con fecha en consulta mysql
+Consulta a base de datos
+¿A qué se debe este error: “Notice: Uninitialized string offset”?Tratando de iterar los valores de un array
+Error al pasar parámetros a una sentencia preparada en una consulta MySQLi
+Como registrar datos en una BD haciendo click en un HREF?
+se puede usar session_start() en los constructores de varias clases?
+Como cambiar un string de precio en php
+Error con sentencia SQL preparada mediante PHP
+Sumar máximas rachas de resultados en apuestas ganadas, perdidas o empatadas
+convertir resultado de consulta Mysql a INT
+¿Error en mostrar resultados en porcentajes y evaluación total del mismo php y mysqli orientado a objetos?
+¿Cómo calcular el porcentaje de descuento del precio actual y el precio anterior?
+¿Cómo evitar el fatal error del call to a member function execute()?
+Error 1242 Mysql subconsulta
+Como evitar cargar los datos del usuario logueado en la pagina user.php?
+Conecta a la base de datos, no logra ingresar a la cuenta
+Generar un pdf con ñ y acentos desde base de datos TCPDF
+cambiar de mysql a mysqli
+Tratar la excepción: Warning: mysqli::__construct(): (HY000/2002)
+PHP - Obtener tiempo de respuesta de base de datos MySQLi
+Cómo hacer un buscador de frases en cualquier orden
+Declarar variable de salida. Procedimiento almacenado MySql
+¿Cómo intercambiar colores saltando uno desde una consulta - PHP/MYSQLI?
+Cómo obtener otro parámetro en vez de la id en una base de datos
+¿Cómo crear una página de videos?
+Colocar mensaje de “No existen registros” en sentencia preparada usando filtro de búsqueda
+¿Como ejecutar 2 o mas procedimientos almacenados con mysqli en php?
+Cómo sumar dos campos en consulta con Maria DB
+¿Cómo mostrar los resultados de la evaluación en la misma página?
+Mostrar primera palabra de un campo en SQL
+problema con una consulta preparada en php y mysqli
+Duda sobre la seguridad en la funcionalidad del código
+¿Cómo puedo hacer un correcto singleton para una conexión a mysqli?
+Ayuda no muestra datos de la tabla foreach smarty
+Consulta SELECT no reconoce el caracter “ñ” en tabla de mysql
+Mostrar datos con caducidad de un mes
+Selector de casos en un join en función de una condición, SQL
+¿Por qué cuando relaciono mi tabla, no inserta dato?
+Ayuda con un JOINS en 2 tablas en MySQLi en PHP
+¿Cómo insertar los datos que tiene un DIV a la base de datos?
+Validar un Combobox dinamico con PHP
+¿Como usar trigger en mysql para que cuando elimine un registro cambie el valor de una columna de los otros registros?
+Problema con mysqli_multi_query, no se ejecuta al hacer multiconsultas
+DrpZone.js me sale server responded with 0 code y ya modifique apache
+Notice: Undefined index: PHP
+¿Existe alguna forma de obtener una contraseña encriptada?
+Error conexion mysqli [cerrada]
+¿Por qué recibo el error “Couldn't fetch mysqli”?
+Error mysqli_query() expects at least 2 parameters, 1 given in al Insertar datos
+No muestra todos los datos de la BD mysql en mi tabla
+filtrar con if php y mostrar solo si es mayor a 0
+Consulta MYSQL máximo valor
+¿Cómo soluciono este error PHP: Object of class mysqli_result could not be converted to string?
+Insertar NULL por defecto si el campo esta vació
+¿Cómo evitar el error de foreign key constraint en phpmyadmin y en php?
+Como recorrer consulta PDO en PHP
+PHP Mostrar datos aleatorios de una tabla sin que se repitan PHP
+¿Por que se suma dos veces el resultado al usar SUM () con JOIN?
+¿Como lograr que un botón elimine exactamente al usuario que esta en su fila?
+mysqli orientado a objetos
+Problema en count php mysql, funciona en phpmyadmin y no en php
+Funcionamiento de ->real_escape_string
+Warning: mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in: [duplicada]
+Problema al crear tablas Mysql con PhpMyadmin
+Mensaje de mysql_fetch_array() expects parameter 1
+¿Cómo asignar a una variable concatenada noticias según su categoría?
+Insert dinámico de archivo con php mysqli y bind_param
+Error Trying to get property of non-object
+¿Por qué no me inserta datos en MySQL desde PHP?
+Por qué me sale este error? Fatal error: Uncaught Error: Call to undefined function mysql_
+Digitar hora y guardar
+Contar registros de 4 tablas
+¿Porqué la función affected_rows de PHP no me devuelve la cantidad de registros en mi consulta SELECT realizada en MySQL?
+¿Cómo ocultar formulario y luego de un cierto tiempo redireccionar a otra página?
+¿Error al agregar dos condiciones WHERE en una consula MySQLi?
+¿Como puedo reemplazar $_SESSION por una consulta preparada?
+¿Cómo imprimir resultados desde varias consultas unidas no relacionadas? [cerrada]
+¿Cómo mostrar el detalle de una noticia de diferentes tablas?
+Salto de línea en textarea
+No MysqlInd no funciona fetch_assoc ni get_result()
+Como solucionar Uncaught Error: Call to undefined function mysql_fetch_array() [cerrada]
+Se puede verificar en DB si es igual a un string?
+Misma consulta con diferente respuesta
+Error en PHP al iniciar sesion
+Como hacer un select con mysql y php desde una modal?
+Como mostrar todo datos consultados?
+Actualización de la Base de datos en mysql con php
+Obtener valor de un td por ajax
+Mysql - error al realizar copia en remoto con mysqldump
+Campo enum en PHP
+Error en PHP: mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given
+Buscar valores duplicados similares (LIKE) en una tabla de una base de datos MySQLi
+¿Como reemplazar mysqli_result() en PHP7?
+Recoverable fatal error: Object of class mysqli could not be converted to string
+tengo un identificador de una base mysql alfanumérico y necesito identificar el mayor
+Combinar 2 querys MYSQL PHP
+Error de INSERT INTO codigo php
+Insertar Datos en dos Tablas al mismo tiempo
+Obtener el ID de un INSERT para un UPDATE en Mysql y PHP
+¿Cómo podría hacer para no mostrar filas a los usuarios que están en una tabla específica?
+Error al consultar texto con emojis en mysql
+Actualización de código en php
+UPDATE no ejecuta nada en PHP
+Dato Incorrecto al Obtener valor COUNT de una consulta con rowCount PDO - PHP
+Restricción para registros repetidos
+Error fetch_assoc() on boolean
+Error #1241 subconsulta MySQL
+Cómo soluciono mysqli_fetch_array() expects parameter 1 to be mysqli_result PHP y MySQL
+¿Cómo muestro una columna cuyo nombre es una variable de php?
+mysqli_fetch_assoc en estilo orientado a objetos
+¿Error al ingresar al sistema de acceso se pierde la session y registra datos fallido al ingresar correctamente?
+Ayuda con PHPMailerAutoload.php
+¿Cómo ocultar contenidos de un producto ya adquirido?
+Tabla temporal en MYSQL y el su uso en PHP
+Como ejecutar un PHP con Ionic 2
+¿Cómo imprimir esta consulta?
+Error Undefined variable: mysqli_query
+Contar apariciones seguidas de un valor en una tabla
+Colocar en php que usuario esta conectado
+Problema al evitar el registro de usuarios duplicados PHP - MYSQL
+Como mostrar los datos de un usuario logueado
+agregar filas dinamicas a una tabla con datos de otra tabla
+Enlazar varias tablas a otra para obtener grupos de registros
+¿Cómo insertar datos en una tabla de MySQLi mediante un <Option value> en PHP? [cerrada]
+SET sentencia preparada mysqli
+Call to a member function bindParam() on a non-object
+¿Dejar solo los últimos 40 mensajes y borrar el resto PHP MYSQLI?
+Descontar unidades de inputs autocomplete
+¿Alguien me puede explicar que hace este bucle?
+No se insertan los datos mediante mysqli
+Parse error: syntax error, unexpected ',' in
+se salta la linea en el base de datos con el uso tres checkbox con el bucle foreach
+Operación de resta
+Se puede condicionar un evento sql
+Problema con login
+¿Como mostrar todo el contenido de una tabla de Mysql en PHP?
+Consulta myslqi de dos tablas con suma de registros
+¿Como hago para que en un procedimiento almacenado pueda guardar en dos variables con INTO frente a una consulta que regresa una o varas columnas?
+Error al insertar registros con MySQLi con prepared statements
+#1241 - Operand should contain 1 column(s)
+Error Fatal error: Uncaught Error: Call to undefined function execute()
+Porque en mi input value se generan espacios en blanco
+Sintaxis de loop cuando no tiene resultados
+¿Cómo aplico una transaccion en PHP?
+Error en consulta MYSQL y PHP
+Conexión a mysql por php y mostrar en html responsive
+Funciones y parámetros
+Consulta mysql que muestre coincidencias y luego el resto de filas
+¿Por qué me aparece que mis variables están indefinidas?
+Array to string conversion. Modificar datos de mysql con php
+MySQL: Obtener pedidos completos con un subconjunto de productos
+Cerrar la conexión a base de datos MySQL de un formulario con PHP
+¿Como acortar una condición en php?
+Llenar datos a un ListView personalizado desde servidor (Web Service)
+Mensaje de Error, manejando funciones con POO y PHP.. Fatal error: Call to a member function fetch_all() on a non-object in
+Como seleccionar y comparar entre fechas resultados entre dos tablas?
+Como contar registro , con condiciones multiples
+Warning: mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters
+cómo se activa mysqlnd en servidor, editando php.ini
+mostrar datos de una base de datos mediante función
+por que no me sube el archivo de imagen y no se visualiza?
+Guardar diferente valor del que tiene un select en value
+no se devuelve los valores del array
+Cargar datos a partir de un select en otro con datos de MySQL PHP AJAX
+PROBLEMAS SOBRE CONEXION MYSQL
+Notice Array to string in line 72

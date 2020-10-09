@@ -1,0 +1,590 @@
+main
+creating database
+database created
+looking question for url https://es.stackoverflow.com/questions/tagged/mysqli?page=1&sort=votes&pagesize=50
+question 1 0/50
+looking for response url https://es.stackoverflow.com/questions/2994/de-que-manera-se-puede-encriptar-una-contrase%c3%b1a-para-una-base-de-datos
+question 1 1/50
+looking for response url https://es.stackoverflow.com/questions/203464/c%c3%b3mo-mostrar-datos-y-filtros-de-paginaci%c3%b3n-avanzada-con-ajax
+question 1 2/50
+looking for response url https://es.stackoverflow.com/questions/96997/c%c3%b3mo-crear-un-sistema-seguro-de-acceso-con-php-mysqli
+question 1 3/50
+looking for response url https://es.stackoverflow.com/questions/192360/grave-agujero-de-seguridad-al-permitir-restablecer-la-contrase%c3%b1a-php
+question 1 4/50
+looking for response url https://es.stackoverflow.com/questions/26723/c%c3%b3mo-mostrar-productos-relacionados-en-el-carrito-de-la-compra
+question 1 5/50
+looking for response url https://es.stackoverflow.com/questions/114051/c%c3%b3mo-obtener-un-arreglo-asociativo-usando-consultas-preparadas-con-mysqli
+question 1 6/50
+looking for response url https://es.stackoverflow.com/questions/178844/c%c3%b3mo-puedo-evitar-mostrar-el-titulo-de-una-categor%c3%ada-cuando-no-exista-contenido
+question 1 7/50
+looking for response url https://es.stackoverflow.com/questions/132163/c%c3%b3mo-habilitar-p%c3%a1gina-despu%c3%a9s-de-una-fecha-estimada
+question 1 8/50
+looking for response url https://es.stackoverflow.com/questions/198906/c%c3%b3mo-crear-un-listado-de-noticias-con-bootgrid-usando-sentencias-preparadas-mys
+question 1 9/50
+looking for response url https://es.stackoverflow.com/questions/96641/c%c3%b3mo-generar-y-proteger-url-del-archivo
+question 1 10/50
+looking for response url https://es.stackoverflow.com/questions/179701/c%c3%b3mo-crear-un-id-%c3%banico-de-un-post-similar-a-stackoverflow
+question 1 11/50
+looking for response url https://es.stackoverflow.com/questions/318116/seleccionar-m%c3%baltiples-filas-y-actualizar-sus-valores-sql
+question 1 12/50
+looking for response url https://es.stackoverflow.com/questions/105641/warning-mysqli-query-expects-parameter-1-to-be-mysqli
+question 1 13/50
+looking for response url https://es.stackoverflow.com/questions/65616/porque-se-acumulan-sumatorias-en-un-ciclo-for-que-deben-presentarse-por-separad
+question 1 14/50
+looking for response url https://es.stackoverflow.com/questions/41880/como-hacer-select-top-1-en-mysql-para-ultimo-registro
+question 1 15/50
+looking for response url https://es.stackoverflow.com/questions/187870/c%c3%b3mo-insertar-datos-despu%c3%a9s-de-48-horas
+question 1 16/50
+looking for response url https://es.stackoverflow.com/questions/8560/ayuda-con-htaccess-url-amigables
+question 1 17/50
+looking for response url https://es.stackoverflow.com/questions/199567/c%c3%b3mo-generar-un-listado-de-botones-de-las-preguntas-existentes-de-manera-din%c3%a1mi
+question 1 18/50
+looking for response url https://es.stackoverflow.com/questions/122257/c%c3%b3mo-hacer-varias-inserciones-seguidas-usando-sentencias-preparadas-mysqli
+question 1 19/50
+looking for response url https://es.stackoverflow.com/questions/11156/subida-de-im%c3%a1genes-por-ajax-mediante-phpmysql
+question 1 20/50
+looking for response url https://es.stackoverflow.com/questions/300617/c%c3%b3mo-inhabilitar-contenido-seg%c3%ban-la-fecha-y-tipo-de-usuario
+question 1 21/50
+looking for response url https://es.stackoverflow.com/questions/30668/cu%c3%a1l-es-el-error-en-estos-c%c3%b3digos-de-php-warning-mysqli-num-rows-exp-wa
+question 1 22/50
+looking for response url https://es.stackoverflow.com/questions/24230/c%c3%b3mo-enviar-los-datos-que-alamacena-una-variable-en-jquery-mediante-ajax-a-un-p
+question 1 23/50
+looking for response url https://es.stackoverflow.com/questions/14119/php-problemas-al-insertar-datos-mysql
+question 1 24/50
+looking for response url https://es.stackoverflow.com/questions/156775/problema-en-count-php
+question 1 25/50
+looking for response url https://es.stackoverflow.com/questions/83570/c%c3%b3mo-mostrar-los-productos-del-segundo-id-en-adelante
+question 1 26/50
+looking for response url https://es.stackoverflow.com/questions/203442/ayuda-con-la-logica-de-un-query-para-mysqli
+question 1 27/50
+looking for response url https://es.stackoverflow.com/questions/111240/c%c3%b3mo-evitar-una-repercusi%c3%b3n-en-el-rendimiento-de-la-aplicaci%c3%b3n-al-realizar-cons
+question 1 28/50
+looking for response url https://es.stackoverflow.com/questions/132156/c%c3%b3mo-aseguro-mi-conexi%c3%b3n-de-php-a-mysql
+question 1 29/50
+looking for response url https://es.stackoverflow.com/questions/1802/problema-insertando-datos-con-mysqli
+question 1 30/50
+looking for response url https://es.stackoverflow.com/questions/134983/es-obsoleta-la-extensi%c3%b3n-pdo-mysql-para-php
+question 1 31/50
+looking for response url https://es.stackoverflow.com/questions/52209/qu%c3%a9-es-mejor-usar-fetch-arraymysqli-assoc-or-fetch-allmysqli-assoc
+question 1 32/50
+looking for response url https://es.stackoverflow.com/questions/7857/c%c3%b3mo-unir-m%c3%baltiples-tablas-en-mysql
+question 1 33/50
+looking for response url https://es.stackoverflow.com/questions/26008/c%c3%b3mo-hacer-un-join-en-mysql-con-un-where-para-obtener-todos-los-registros-que-c
+question 1 34/50
+looking for response url https://es.stackoverflow.com/questions/110066/error-en-mostrar-mensaje-de-error-cuando-todo-devuelve-cero
+question 1 35/50
+looking for response url https://es.stackoverflow.com/questions/29972/com%c3%b3-hacer-login-en-php-y-mysql-con-passwords-encriptadas-en-md5-usando-ajax
+question 1 36/50
+looking for response url https://es.stackoverflow.com/questions/19655/error-al-a%c3%b1adir-producto-en-el-carrito-de-compra-php-mysqli
+question 1 37/50
+looking for response url https://es.stackoverflow.com/questions/350898/c%c3%b3mo-recuperar-registros-de-varias-tablas-sin-union
+question 1 38/50
+looking for response url https://es.stackoverflow.com/questions/312500/no-se-por-que-falla-con-if
+question 1 39/50
+looking for response url https://es.stackoverflow.com/questions/214994/warning-mysqliquery-couldnt-fetch-mysqli
+question 1 40/50
+looking for response url https://es.stackoverflow.com/questions/106209/c%c3%b3mo-comprobar-varios-valores-por-un-valor-para-identificar-el-producto-adquiri
+question 1 41/50
+looking for response url https://es.stackoverflow.com/questions/22233/c%c3%b3mo-crear-par%c3%a1metro-php-myqli-y-mezclar-programaci%c3%b3n-con-jquery
+question 1 42/50
+looking for response url https://es.stackoverflow.com/questions/104530/c%c3%b3mo-mostrar-filas-de-resultados-de-forma-segura-utilizando-mysqli-orientado-a
+question 1 43/50
+looking for response url https://es.stackoverflow.com/questions/229132/como-obtener-los-datos-de-un-select-con-sentencias-preparadas-php
+question 1 44/50
+looking for response url https://es.stackoverflow.com/questions/195203/php-poo-establecer-conexion-a-la-base-de-datos
+question 1 45/50
+looking for response url https://es.stackoverflow.com/questions/289285/mostrar-tablas-dinamicamente
+question 1 46/50
+looking for response url https://es.stackoverflow.com/questions/191323/duda-consultas-mysqli-vs-poo-consultas-preparadas
+question 1 47/50
+looking for response url https://es.stackoverflow.com/questions/181873/resultado-de-una-consulta-null
+question 1 48/50
+looking for response url https://es.stackoverflow.com/questions/47066/mostrar-registros-en-un-select-basandose-en-id-de-otro-select
+question 1 49/50
+looking for response url https://es.stackoverflow.com/questions/290985/como-obtener-la-cantidad-de-espacio-que-ocupa-un-registro-en-mysql
+looking question for url https://es.stackoverflow.com/questions/tagged/mysqli?page=2&sort=votes&pagesize=50
+question 2 50/100
+looking for response url https://es.stackoverflow.com/questions/192027/duda-sobre-un-update-usando-sentencias-preparadas
+question 2 51/100
+looking for response url https://es.stackoverflow.com/questions/92771/como-cambiar-de-mysql-query-a-mysqli-query
+question 2 52/100
+looking for response url https://es.stackoverflow.com/questions/26878/mi-login-en-mysqli-ingresa-con-cualquier-contrase%c3%b1a
+question 2 53/100
+looking for response url https://es.stackoverflow.com/questions/39073/por-que-marca-este-error-en-el-uso-de-la-funci%c3%b3n-fetch-all-al-estar-el-sit
+question 2 54/100
+looking for response url https://es.stackoverflow.com/questions/29792/problema-al-borrar-con-php-en-una-base-de-datos-mysqli
+question 2 55/100
+looking for response url https://es.stackoverflow.com/questions/7276/c%c3%b3mo-enviar-el-resultado-a-una-varible-con-mysqli-result
+question 2 56/100
+looking for response url https://es.stackoverflow.com/questions/4469/comparar-un-rango-de-fechas-con-between-en-mysql
+question 2 57/100
+looking for response url https://es.stackoverflow.com/questions/1827/mysqli-affected-rows-no-funciona-con-procedimiento-almacenado
+question 2 58/100
+looking for response url https://es.stackoverflow.com/questions/179759/c%c3%b3mo-unir-cuatro-tablas-no-relacionadas-mysqli
+question 2 59/100
+looking for response url https://es.stackoverflow.com/questions/144512/c%c3%b3mo-actualizar-registro-seleccionado-mediante-ventana-modal
+question 2 60/100
+looking for response url https://es.stackoverflow.com/questions/100612/error-en-mostrar-indice-de-series-de-videos-desde-la-base-de-datos
+question 2 61/100
+looking for response url https://es.stackoverflow.com/questions/191839/notice-undefined-index-enviando-variable-por-post
+question 2 62/100
+looking for response url https://es.stackoverflow.com/questions/111158/donde-utilizar-stmt-close-stmt-free-result-mysqli-php
+question 2 63/100
+looking for response url https://es.stackoverflow.com/questions/105763/datetime-en-mysql-no-registra-correctamente-la-fecha
+question 2 64/100
+looking for response url https://es.stackoverflow.com/questions/40870/como-utilizar-funci%c3%b3n-mysqli-real-escape-string-con-arreglo-de-inputs-recibi
+question 2 65/100
+looking for response url https://es.stackoverflow.com/questions/29609/como-hacerlo-en-mysql
+question 2 66/100
+looking for response url https://es.stackoverflow.com/questions/148640/buscar-y-eliminar-registros-duplicados-mysql
+question 2 67/100
+looking for response url https://es.stackoverflow.com/questions/307003/por-qu%c3%a9-solo-me-muestra-el-valor-mas-reciente-php
+question 2 68/100
+looking for response url https://es.stackoverflow.com/questions/316809/problema-al-almacenar-datos-con-php-y-mysqli
+question 2 69/100
+looking for response url https://es.stackoverflow.com/questions/315409/problemas-con-la-base-de-datos
+question 2 70/100
+looking for response url https://es.stackoverflow.com/questions/33790/c%c3%b3mo-imprimir-cada-comentario-con-su-post
+question 2 71/100
+looking for response url https://es.stackoverflow.com/questions/24859/como-puedo-saber-cuantas-veces-se-repite-un-dato-en-una-consulta-sql
+question 2 72/100
+looking for response url https://es.stackoverflow.com/questions/326853/c%c3%b3mo-puedo-implementar-una-consulta-donde-se-muestre-las-publicaciones-m%c3%a1s-popu
+question 2 73/100
+looking for response url https://es.stackoverflow.com/questions/204207/inner-join-1-campo-primario-a-varios-campos-foraneos-en-una-misma-tabla
+question 2 74/100
+looking for response url https://es.stackoverflow.com/questions/301355/evitar-login-nuevamente-tras-presionar-bot%c3%b3n-de-atr%c3%a1s-del-navegador
+question 2 75/100
+looking for response url https://es.stackoverflow.com/questions/214491/usar-una-variable-para-el-limit-en-un-select-de-mysql-con-php
+question 2 76/100
+looking for response url https://es.stackoverflow.com/questions/203319/aplicar-un-where-a-mi-sentencia-sql-en-un-sum-selectivo-y-total
+question 2 77/100
+looking for response url https://es.stackoverflow.com/questions/194517/problema-al-actualizar-registros-en-la-base-de-datos
+question 2 78/100
+looking for response url https://es.stackoverflow.com/questions/157106/error-mysqli-mysqli-query-expects-parameter-1-to-be-mysqli-incluso-si-ya-le-e
+question 2 79/100
+looking for response url https://es.stackoverflow.com/questions/121778/problema-con-fecha-en-consulta-mysql
+question 2 80/100
+looking for response url https://es.stackoverflow.com/questions/92064/consulta-a-base-de-datos
+question 2 81/100
+looking for response url https://es.stackoverflow.com/questions/31134/a-qu%c3%a9-se-debe-este-error-notice-uninitialized-string-offsettratando-de-ite
+question 2 82/100
+looking for response url https://es.stackoverflow.com/questions/26766/error-al-pasar-par%c3%a1metros-a-una-sentencia-preparada-en-una-consulta-mysqli
+question 2 83/100
+looking for response url https://es.stackoverflow.com/questions/25004/como-registrar-datos-en-una-bd-haciendo-click-en-un-href
+question 2 84/100
+looking for response url https://es.stackoverflow.com/questions/20251/se-puede-usar-session-start-en-los-constructores-de-varias-clases
+question 2 85/100
+looking for response url https://es.stackoverflow.com/questions/11483/como-cambiar-un-string-de-precio-en-php
+question 2 86/100
+looking for response url https://es.stackoverflow.com/questions/10528/error-con-sentencia-sql-preparada-mediante-php
+question 2 87/100
+looking for response url https://es.stackoverflow.com/questions/301041/sumar-m%c3%a1ximas-rachas-de-resultados-en-apuestas-ganadas-perdidas-o-empatadas
+question 2 88/100
+looking for response url https://es.stackoverflow.com/questions/140397/convertir-resultado-de-consulta-mysql-a-int
+question 2 89/100
+looking for response url https://es.stackoverflow.com/questions/106852/error-en-mostrar-resultados-en-porcentajes-y-evaluaci%c3%b3n-total-del-mismo-php-y-m
+question 2 90/100
+looking for response url https://es.stackoverflow.com/questions/93483/c%c3%b3mo-calcular-el-porcentaje-de-descuento-del-precio-actual-y-el-precio-anterior
+question 2 91/100
+looking for response url https://es.stackoverflow.com/questions/82801/c%c3%b3mo-evitar-el-fatal-error-del-call-to-a-member-function-execute
+question 2 92/100
+looking for response url https://es.stackoverflow.com/questions/41967/error-1242-mysql-subconsulta
+question 2 93/100
+looking for response url https://es.stackoverflow.com/questions/32756/como-evitar-cargar-los-datos-del-usuario-logueado-en-la-pagina-user-php
+question 2 94/100
+looking for response url https://es.stackoverflow.com/questions/310058/conecta-a-la-base-de-datos-no-logra-ingresar-a-la-cuenta
+question 2 95/100
+looking for response url https://es.stackoverflow.com/questions/289503/generar-un-pdf-con-%c3%b1-y-acentos-desde-base-de-datos-tcpdf
+question 2 96/100
+looking for response url https://es.stackoverflow.com/questions/272232/cambiar-de-mysql-a-mysqli
+question 2 97/100
+looking for response url https://es.stackoverflow.com/questions/253236/tratar-la-excepci%c3%b3n-warning-mysqli-construct-hy000-2002
+question 2 98/100
+looking for response url https://es.stackoverflow.com/questions/241623/php-obtener-tiempo-de-respuesta-de-base-de-datos-mysqli
+question 2 99/100
+looking for response url https://es.stackoverflow.com/questions/221934/c%c3%b3mo-hacer-un-buscador-de-frases-en-cualquier-orden
+looking question for url https://es.stackoverflow.com/questions/tagged/mysqli?page=3&sort=votes&pagesize=50
+question 3 100/150
+looking for response url https://es.stackoverflow.com/questions/192766/declarar-variable-de-salida-procedimiento-almacenado-mysql
+question 3 101/150
+looking for response url https://es.stackoverflow.com/questions/179087/c%c3%b3mo-intercambiar-colores-saltando-uno-desde-una-consulta-php-mysqli
+question 3 102/150
+looking for response url https://es.stackoverflow.com/questions/135920/c%c3%b3mo-obtener-otro-par%c3%a1metro-en-vez-de-la-id-en-una-base-de-datos
+question 3 103/150
+looking for response url https://es.stackoverflow.com/questions/88494/c%c3%b3mo-crear-una-p%c3%a1gina-de-videos
+question 3 104/150
+looking for response url https://es.stackoverflow.com/questions/60993/colocar-mensaje-de-no-existen-registros-en-sentencia-preparada-usando-filtro-d
+question 3 105/150
+looking for response url https://es.stackoverflow.com/questions/41741/como-ejecutar-2-o-mas-procedimientos-almacenados-con-mysqli-en-php
+question 3 106/150
+looking for response url https://es.stackoverflow.com/questions/17532/c%c3%b3mo-sumar-dos-campos-en-consulta-con-maria-db
+question 3 107/150
+looking for response url https://es.stackoverflow.com/questions/205655/c%c3%b3mo-mostrar-los-resultados-de-la-evaluaci%c3%b3n-en-la-misma-p%c3%a1gina
+question 3 108/150
+looking for response url https://es.stackoverflow.com/questions/193883/mostrar-primera-palabra-de-un-campo-en-sql
+question 3 109/150
+looking for response url https://es.stackoverflow.com/questions/184316/problema-con-una-consulta-preparada-en-php-y-mysqli
+question 3 110/150
+looking for response url https://es.stackoverflow.com/questions/141992/duda-sobre-la-seguridad-en-la-funcionalidad-del-c%c3%b3digo
+question 3 111/150
+looking for response url https://es.stackoverflow.com/questions/47523/c%c3%b3mo-puedo-hacer-un-correcto-singleton-para-una-conexi%c3%b3n-a-mysqli
+question 3 112/150
+looking for response url https://es.stackoverflow.com/questions/10364/ayuda-no-muestra-datos-de-la-tabla-foreach-smarty
+question 3 113/150
+looking for response url https://es.stackoverflow.com/questions/350831/consulta-select-no-reconoce-el-caracter-%c3%b1-en-tabla-de-mysql
+question 3 114/150
+looking for response url https://es.stackoverflow.com/questions/304181/mostrar-datos-con-caducidad-de-un-mes
+question 3 115/150
+looking for response url https://es.stackoverflow.com/questions/302499/selector-de-casos-en-un-join-en-funci%c3%b3n-de-una-condici%c3%b3n-sql
+question 3 116/150
+looking for response url https://es.stackoverflow.com/questions/277165/por-qu%c3%a9-cuando-relaciono-mi-tabla-no-inserta-dato
+question 3 117/150
+looking for response url https://es.stackoverflow.com/questions/204150/ayuda-con-un-joins-en-2-tablas-en-mysqli-en-php
+question 3 118/150
+looking for response url https://es.stackoverflow.com/questions/196891/c%c3%b3mo-insertar-los-datos-que-tiene-un-div-a-la-base-de-datos
+question 3 119/150
+looking for response url https://es.stackoverflow.com/questions/191971/validar-un-combobox-dinamico-con-php
+question 3 120/150
+looking for response url https://es.stackoverflow.com/questions/152957/como-usar-trigger-en-mysql-para-que-cuando-elimine-un-registro-cambie-el-valor
+question 3 121/150
+looking for response url https://es.stackoverflow.com/questions/133595/c%c3%b3mo-crear-un-carrito-de-compras-correctamente
+question 3 122/150
+looking for response url https://es.stackoverflow.com/questions/96853/problema-con-mysqli-multi-query-no-se-ejecuta-al-hacer-multiconsultas
+question 3 123/150
+looking for response url https://es.stackoverflow.com/questions/10766/drpzone-js-me-sale-server-responded-with-0-code-y-ya-modifique-apache
+question 3 124/150
+looking for response url https://es.stackoverflow.com/questions/135937/notice-undefined-index-php
+question 3 125/150
+looking for response url https://es.stackoverflow.com/questions/296680/existe-alguna-forma-de-obtener-una-contrase%c3%b1a-encriptada
+question 3 126/150
+looking for response url https://es.stackoverflow.com/questions/76332/error-conexion-mysqli
+question 3 127/150
+looking for response url https://es.stackoverflow.com/questions/14130/por-qu%c3%a9-recibo-el-error-couldnt-fetch-mysqli
+question 3 128/150
+looking for response url https://es.stackoverflow.com/questions/135594/error-mysqli-query-expects-at-least-2-parameters-1-given-in-al-insertar-datos
+question 3 129/150
+looking for response url https://es.stackoverflow.com/questions/197682/no-muestra-todos-los-datos-de-la-bd-mysql-en-mi-tabla
+question 3 130/150
+looking for response url https://es.stackoverflow.com/questions/157046/filtrar-con-if-php-y-mostrar-solo-si-es-mayor-a-0
+question 3 131/150
+looking for response url https://es.stackoverflow.com/questions/20328/consulta-mysql-m%c3%a1ximo-valor
+question 3 132/150
+looking for response url https://es.stackoverflow.com/questions/296236/c%c3%b3mo-soluciono-este-error-php-object-of-class-mysqli-result-could-not-be-conve
+question 3 133/150
+looking for response url https://es.stackoverflow.com/questions/252766/insertar-null-por-defecto-si-el-campo-esta-vaci%c3%b3
+question 3 134/150
+looking for response url https://es.stackoverflow.com/questions/75427/c%c3%b3mo-evitar-el-error-de-foreign-key-constraint-en-phpmyadmin-y-en-php
+question 3 135/150
+looking for response url https://es.stackoverflow.com/questions/68150/como-recorrer-consulta-pdo-en-php
+question 3 136/150
+looking for response url https://es.stackoverflow.com/questions/270348/php-mostrar-datos-aleatorios-de-una-tabla-sin-que-se-repitan-php
+question 3 137/150
+looking for response url https://es.stackoverflow.com/questions/210982/por-que-se-suma-dos-veces-el-resultado-al-usar-sum-con-join
+question 3 138/150
+looking for response url https://es.stackoverflow.com/questions/193053/como-lograr-que-un-bot%c3%b3n-elimine-exactamente-al-usuario-que-esta-en-su-fila
+question 3 139/150
+looking for response url https://es.stackoverflow.com/questions/191517/mysqli-orientado-a-objetos
+question 3 140/150
+looking for response url https://es.stackoverflow.com/questions/159122/problema-en-count-php-mysql-funciona-en-phpmyadmin-y-no-en-php
+question 3 141/150
+looking for response url https://es.stackoverflow.com/questions/151496/funcionamiento-de-real-escape-string
+question 3 142/150
+looking for response url https://es.stackoverflow.com/questions/137935/warning-mysqli-fetch-array-expects-parameter-1-to-be-mysqli-result-boolean-g
+question 3 143/150
+looking for response url https://es.stackoverflow.com/questions/60315/problema-al-crear-tablas-mysql-con-phpmyadmin
+question 3 144/150
+looking for response url https://es.stackoverflow.com/questions/17635/mensaje-de-mysql-fetch-array-expects-parameter-1
+question 3 145/150
+looking for response url https://es.stackoverflow.com/questions/320045/c%c3%b3mo-asignar-a-una-variable-concatenada-noticias-seg%c3%ban-su-categor%c3%ada
+question 3 146/150
+looking for response url https://es.stackoverflow.com/questions/299613/insert-din%c3%a1mico-de-archivo-con-php-mysqli-y-bind-param
+question 3 147/150
+looking for response url https://es.stackoverflow.com/questions/278496/error-trying-to-get-property-of-non-object
+question 3 148/150
+looking for response url https://es.stackoverflow.com/questions/268451/por-qu%c3%a9-no-me-inserta-datos-en-mysql-desde-php
+question 3 149/150
+looking for response url https://es.stackoverflow.com/questions/251176/por-qu%c3%a9-me-sale-este-error-fatal-error-uncaught-error-call-to-undefined-funct
+looking question for url https://es.stackoverflow.com/questions/tagged/mysqli?page=4&sort=votes&pagesize=50
+question 4 150/200
+looking for response url https://es.stackoverflow.com/questions/250942/digitar-hora-y-guardar
+question 4 151/200
+looking for response url https://es.stackoverflow.com/questions/239159/contar-registros-de-4-tablas
+question 4 152/200
+looking for response url https://es.stackoverflow.com/questions/225304/porqu%c3%a9-la-funci%c3%b3n-affected-rows-de-php-no-me-devuelve-la-cantidad-de-registros
+question 4 153/200
+looking for response url https://es.stackoverflow.com/questions/188599/c%c3%b3mo-ocultar-formulario-y-luego-de-un-cierto-tiempo-redireccionar-a-otra-p%c3%a1gina
+question 4 154/200
+looking for response url https://es.stackoverflow.com/questions/186341/error-al-agregar-dos-condiciones-where-en-una-consula-mysqli
+question 4 155/200
+looking for response url https://es.stackoverflow.com/questions/185400/como-puedo-reemplazar-session-por-una-consulta-preparada
+question 4 156/200
+looking for response url https://es.stackoverflow.com/questions/179804/c%c3%b3mo-imprimir-resultados-desde-varias-consultas-unidas-no-relacionadas
+question 4 157/200
+looking for response url https://es.stackoverflow.com/questions/179687/c%c3%b3mo-mostrar-el-detalle-de-una-noticia-de-diferentes-tablas
+question 4 158/200
+looking for response url https://es.stackoverflow.com/questions/179352/salto-de-l%c3%adnea-en-textarea
+question 4 159/200
+looking for response url https://es.stackoverflow.com/questions/174429/no-mysqlind-no-funciona-fetch-assoc-ni-get-result
+question 4 160/200
+looking for response url https://es.stackoverflow.com/questions/151395/como-solucionar-uncaught-error-call-to-undefined-function-mysql-fetch-array
+question 4 161/200
+looking for response url https://es.stackoverflow.com/questions/132799/se-puede-verificar-en-db-si-es-igual-a-un-string
+question 4 162/200
+looking for response url https://es.stackoverflow.com/questions/108847/misma-consulta-con-diferente-respuesta
+question 4 163/200
+looking for response url https://es.stackoverflow.com/questions/65302/error-en-php-al-iniciar-sesion
+question 4 164/200
+looking for response url https://es.stackoverflow.com/questions/34898/como-hacer-un-select-con-mysql-y-php-desde-una-modal
+question 4 165/200
+looking for response url https://es.stackoverflow.com/questions/26905/como-mostrar-todo-datos-consultados
+question 4 166/200
+looking for response url https://es.stackoverflow.com/questions/11501/actualizaci%c3%b3n-de-la-base-de-datos-en-mysql-con-php
+question 4 167/200
+looking for response url https://es.stackoverflow.com/questions/376967/obtener-valor-de-un-td-por-ajax
+question 4 168/200
+looking for response url https://es.stackoverflow.com/questions/375930/mysql-error-al-realizar-copia-en-remoto-con-mysqldump
+question 4 169/200
+looking for response url https://es.stackoverflow.com/questions/315890/campo-enum-en-php
+question 4 170/200
+looking for response url https://es.stackoverflow.com/questions/309627/error-en-php-mysqli-fetch-array-expects-parameter-1-to-be-mysqli-result-bool
+question 4 171/200
+looking for response url https://es.stackoverflow.com/questions/306618/buscar-valores-duplicados-similares-like-en-una-tabla-de-una-base-de-datos-mys
+question 4 172/200
+looking for response url https://es.stackoverflow.com/questions/296580/como-reemplazar-mysqli-result-en-php7
+question 4 173/200
+looking for response url https://es.stackoverflow.com/questions/289770/recoverable-fatal-error-object-of-class-mysqli-could-not-be-converted-to-string
+question 4 174/200
+looking for response url https://es.stackoverflow.com/questions/280388/tengo-un-identificador-de-una-base-mysql-alfanum%c3%a9rico-y-necesito-identificar-el
+question 4 175/200
+looking for response url https://es.stackoverflow.com/questions/274369/combinar-2-querys-mysql-php
+question 4 176/200
+looking for response url https://es.stackoverflow.com/questions/270687/error-de-insert-into-codigo-php
+question 4 177/200
+looking for response url https://es.stackoverflow.com/questions/262736/insertar-datos-en-dos-tablas-al-mismo-tiempo
+question 4 178/200
+looking for response url https://es.stackoverflow.com/questions/236500/obtener-el-id-de-un-insert-para-un-update-en-mysql-y-php
+question 4 179/200
+looking for response url https://es.stackoverflow.com/questions/203668/c%c3%b3mo-podr%c3%ada-hacer-para-no-mostrar-filas-a-los-usuarios-que-est%c3%a1n-en-una-tabla-e
+question 4 180/200
+looking for response url https://es.stackoverflow.com/questions/168700/error-al-consultar-texto-con-emojis-en-mysql
+question 4 181/200
+looking for response url https://es.stackoverflow.com/questions/158954/actualizaci%c3%b3n-de-c%c3%b3digo-en-php
+question 4 182/200
+looking for response url https://es.stackoverflow.com/questions/158507/update-no-ejecuta-nada-en-php
+question 4 183/200
+looking for response url https://es.stackoverflow.com/questions/153612/dato-incorrecto-al-obtener-valor-count-de-una-consulta-con-rowcount-pdo-php
+question 4 184/200
+looking for response url https://es.stackoverflow.com/questions/141090/restricci%c3%b3n-para-registros-repetidos
+question 4 185/200
+looking for response url https://es.stackoverflow.com/questions/137053/error-fetch-assoc-on-boolean
+question 4 186/200
+looking for response url https://es.stackoverflow.com/questions/131550/error-1241-subconsulta-mysql
+question 4 187/200
+looking for response url https://es.stackoverflow.com/questions/127490/c%c3%b3mo-soluciono-mysqli-fetch-array-expects-parameter-1-to-be-mysqli-result-php
+question 4 188/200
+looking for response url https://es.stackoverflow.com/questions/125383/c%c3%b3mo-muestro-una-columna-cuyo-nombre-es-una-variable-de-php
+question 4 189/200
+looking for response url https://es.stackoverflow.com/questions/120370/mysqli-fetch-assoc-en-estilo-orientado-a-objetos
+question 4 190/200
+looking for response url https://es.stackoverflow.com/questions/105066/error-al-ingresar-al-sistema-de-acceso-se-pierde-la-session-y-registra-datos-fa
+question 4 191/200
+looking for response url https://es.stackoverflow.com/questions/99845/ayuda-con-phpmailerautoload-php
+question 4 192/200
+looking for response url https://es.stackoverflow.com/questions/97480/c%c3%b3mo-ocultar-contenidos-de-un-producto-ya-adquirido
+question 4 193/200
+looking for response url https://es.stackoverflow.com/questions/80912/tabla-temporal-en-mysql-y-el-su-uso-en-php
+question 4 194/200
+looking for response url https://es.stackoverflow.com/questions/72901/como-ejecutar-un-php-con-ionic-2
+question 4 195/200
+looking for response url https://es.stackoverflow.com/questions/62972/c%c3%b3mo-imprimir-esta-consulta
+question 4 196/200
+looking for response url https://es.stackoverflow.com/questions/59230/error-undefined-variable-mysqli-query
+question 4 197/200
+looking for response url https://es.stackoverflow.com/questions/55973/contar-apariciones-seguidas-de-un-valor-en-una-tabla
+question 4 198/200
+looking for response url https://es.stackoverflow.com/questions/54060/colocar-en-php-que-usuario-esta-conectado
+question 4 199/200
+looking for response url https://es.stackoverflow.com/questions/22851/problema-al-evitar-el-registro-de-usuarios-duplicados-php-mysql
+looking question for url https://es.stackoverflow.com/questions/tagged/mysqli?page=5&sort=votes&pagesize=50
+question 5 200/250
+looking for response url https://es.stackoverflow.com/questions/15062/como-mostrar-los-datos-de-un-usuario-logueado
+question 5 201/250
+looking for response url https://es.stackoverflow.com/questions/14432/agregar-filas-dinamicas-a-una-tabla-con-datos-de-otra-tabla
+question 5 202/250
+looking for response url https://es.stackoverflow.com/questions/11805/enlazar-varias-tablas-a-otra-para-obtener-grupos-de-registros
+question 5 203/250
+looking for response url https://es.stackoverflow.com/questions/9975/c%c3%b3mo-insertar-datos-en-una-tabla-de-mysqli-mediante-un-option-value-en-php
+question 5 204/250
+looking for response url https://es.stackoverflow.com/questions/3914/set-sentencia-preparada-mysqli
+question 5 205/250
+looking for response url https://es.stackoverflow.com/questions/317376/call-to-a-member-function-bindparam-on-a-non-object
+question 5 206/250
+looking for response url https://es.stackoverflow.com/questions/308509/dejar-solo-los-%c3%baltimos-40-mensajes-y-borrar-el-resto-php-mysqli
+question 5 207/250
+looking for response url https://es.stackoverflow.com/questions/303148/descontar-unidades-de-inputs-autocomplete
+question 5 208/250
+looking for response url https://es.stackoverflow.com/questions/285892/alguien-me-puede-explicar-que-hace-este-bucle
+question 5 209/250
+looking for response url https://es.stackoverflow.com/questions/285296/no-se-insertan-los-datos-mediante-mysqli
+question 5 210/250
+looking for response url https://es.stackoverflow.com/questions/281737/parse-error-syntax-error-unexpected-in
+question 5 211/250
+looking for response url https://es.stackoverflow.com/questions/272925/se-salta-la-linea-en-el-base-de-datos-con-el-uso-tres-checkbox-con-el-bucle-fore
+question 5 212/250
+looking for response url https://es.stackoverflow.com/questions/250995/operaci%c3%b3n-de-resta
+question 5 213/250
+looking for response url https://es.stackoverflow.com/questions/216510/se-puede-condicionar-un-evento-sql
+question 5 214/250
+looking for response url https://es.stackoverflow.com/questions/200282/problema-con-login
+question 5 215/250
+looking for response url https://es.stackoverflow.com/questions/192760/como-mostrar-todo-el-contenido-de-una-tabla-de-mysql-en-php
+question 5 216/250
+looking for response url https://es.stackoverflow.com/questions/190021/consulta-myslqi-de-dos-tablas-con-suma-de-registros
+question 5 217/250
+looking for response url https://es.stackoverflow.com/questions/189638/como-hago-para-que-en-un-procedimiento-almacenado-pueda-guardar-en-dos-variable
+question 5 218/250
+looking for response url https://es.stackoverflow.com/questions/185685/error-al-insertar-registros-con-mysqli-con-prepared-statements
+question 5 219/250
+looking for response url https://es.stackoverflow.com/questions/173312/1241-operand-should-contain-1-columns
+question 5 220/250
+looking for response url https://es.stackoverflow.com/questions/160345/error-fatal-error-uncaught-error-call-to-undefined-function-execute
+question 5 221/250
+looking for response url https://es.stackoverflow.com/questions/134987/porque-en-mi-input-value-se-generan-espacios-en-blanco
+question 5 222/250
+looking for response url https://es.stackoverflow.com/questions/134977/sintaxis-de-loop-cuando-no-tiene-resultados
+question 5 223/250
+looking for response url https://es.stackoverflow.com/questions/120246/c%c3%b3mo-aplico-una-transaccion-en-php
+question 5 224/250
+looking for response url https://es.stackoverflow.com/questions/117711/error-en-consulta-mysql-y-php
+question 5 225/250
+looking for response url https://es.stackoverflow.com/questions/105958/conexi%c3%b3n-a-mysql-por-php-y-mostrar-en-html-responsive
+question 5 226/250
+looking for response url https://es.stackoverflow.com/questions/93357/funciones-y-par%c3%a1metros
+question 5 227/250
+looking for response url https://es.stackoverflow.com/questions/75827/consulta-mysql-que-muestre-coincidencias-y-luego-el-resto-de-filas
+question 5 228/250
+looking for response url https://es.stackoverflow.com/questions/74913/por-qu%c3%a9-me-aparece-que-mis-variables-est%c3%a1n-indefinidas
+question 5 229/250
+looking for response url https://es.stackoverflow.com/questions/71469/array-to-string-conversion-modificar-datos-de-mysql-con-php
+question 5 230/250
+looking for response url https://es.stackoverflow.com/questions/62181/mysql-obtener-pedidos-completos-con-un-subconjunto-de-productos
+question 5 231/250
+looking for response url https://es.stackoverflow.com/questions/58016/cerrar-la-conexi%c3%b3n-a-base-de-datos-mysql-de-un-formulario-con-php
+question 5 232/250
+looking for response url https://es.stackoverflow.com/questions/51091/como-acortar-una-condici%c3%b3n-en-php
+question 5 233/250
+looking for response url https://es.stackoverflow.com/questions/42605/llenar-datos-a-un-listview-personalizado-desde-servidor-web-service
+question 5 234/250
+looking for response url https://es.stackoverflow.com/questions/25554/mensaje-de-error-manejando-funciones-con-poo-y-php-fatal-error-call-to-a-mem
+question 5 235/250
+looking for response url https://es.stackoverflow.com/questions/22576/como-seleccionar-y-comparar-entre-fechas-resultados-entre-dos-tablas
+question 5 236/250
+looking for response url https://es.stackoverflow.com/questions/21069/como-contar-registro-con-condiciones-multiples
+question 5 237/250
+looking for response url https://es.stackoverflow.com/questions/8223/warning-mysqli-stmtbind-param-number-of-variables-doesnt-match-number-of
+question 5 238/250
+looking for response url https://es.stackoverflow.com/questions/8078/c%c3%b3mo-se-activa-mysqlnd-en-servidor-editando-php-ini
+question 5 239/250
+looking for response url https://es.stackoverflow.com/questions/351258/mostrar-datos-de-una-base-de-datos-mediante-funci%c3%b3n
+question 5 240/250
+looking for response url https://es.stackoverflow.com/questions/327853/c%c3%b3mo-hacer-un-selector-de-bases-de-datos-en-php
+question 5 241/250
+looking for response url https://es.stackoverflow.com/questions/314686/por-que-no-me-sube-el-archivo-de-imagen-y-no-se-visualiza
+question 5 242/250
+looking for response url https://es.stackoverflow.com/questions/314073/tomar-un-dato-de-un-select-o-un-input-dependiendo-cual-tenga-el-valor
+question 5 243/250
+looking for response url https://es.stackoverflow.com/questions/306005/error-al-ingresar-varias-imagenes-a-la-vez-en-mysql-con-php
+question 5 244/250
+looking for response url https://es.stackoverflow.com/questions/301397/guardar-diferente-valor-del-que-tiene-un-select-en-value
+question 5 245/250
+looking for response url https://es.stackoverflow.com/questions/288710/no-se-devuelve-los-valores-del-array
+question 5 246/250
+looking for response url https://es.stackoverflow.com/questions/270111/cargar-datos-a-partir-de-un-select-en-otro-con-datos-de-mysql-php-ajax
+question 5 247/250
+looking for response url https://es.stackoverflow.com/questions/244938/problemas-sobre-conexion-mysql
+question 5 248/250
+looking for response url https://es.stackoverflow.com/questions/212183/notice-array-to-string-in-line-72
+question 5 249/250
+looking for response url https://es.stackoverflow.com/questions/209242/consulta-preparada-mysqli
+main
+creating database
+database created
+looking question for url https://es.stackoverflow.com/questions/tagged/mysqli?page=1&sort=votes&pagesize=50
+question 1 0/50
+question 1 1/50
+question 1 2/50
+question 1 3/50
+question 1 4/50
+question 1 5/50
+question 1 6/50
+question 1 7/50
+question 1 8/50
+question 1 9/50
+question 1 10/50
+question 1 11/50
+question 1 12/50
+question 1 13/50
+question 1 14/50
+question 1 15/50
+question 1 16/50
+question 1 17/50
+question 1 18/50
+question 1 19/50
+question 1 20/50
+question 1 21/50
+question 1 22/50
+question 1 23/50
+question 1 24/50
+question 1 25/50
+question 1 26/50
+question 1 27/50
+question 1 28/50
+question 1 29/50
+question 1 30/50
+question 1 31/50
+question 1 32/50
+question 1 33/50
+question 1 34/50
+question 1 35/50
+question 1 36/50
+question 1 37/50
+question 1 38/50
+question 1 39/50
+question 1 40/50
+question 1 41/50
+question 1 42/50
+question 1 43/50
+question 1 44/50
+question 1 45/50
+question 1 46/50
+question 1 47/50
+question 1 48/50
+question 1 49/50
+looking question for url https://es.stackoverflow.com/questions/tagged/mysqli?page=2&sort=votes&pagesize=50
+question 2 50/100
+question 2 51/100
+question 2 52/100
+question 2 53/100
+question 2 54/100
+question 2 55/100
+question 2 56/100
+question 2 57/100
+question 2 58/100
+question 2 59/100
+question 2 60/100
+question 2 61/100
+question 2 62/100
+question 2 63/100
+question 2 64/100
+question 2 65/100
+question 2 66/100
+question 2 67/100
+question 2 68/100
+question 2 69/100
+question 2 70/100
+question 2 71/100
+question 2 72/100
+question 2 73/100
+question 2 74/100
+question 2 75/100
+looking for response url https://es.stackoverflow.com/questions/276939/necesito-ayuda-con-una-querie-en-mysql
